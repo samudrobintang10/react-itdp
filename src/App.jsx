@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div>
-      <img src={logoBJB} alt="" width={500} />
+      <img src={logoBJB} alt="" width={700} />
       <br />
       <Input
         type="text"
